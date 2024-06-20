@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactswagger/static/css/main.cb339ff0.css",
+    "main.js": "/reactswagger/static/js/main.abd0cf30.js",
+    "static/js/453.01fa07b5.chunk.js": "/reactswagger/static/js/453.01fa07b5.chunk.js",
+    "static/media/logo.svg": "/reactswagger/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "index.html": "/reactswagger/index.html",
+    "main.cb339ff0.css.map": "/reactswagger/static/css/main.cb339ff0.css.map",
+    "main.abd0cf30.js.map": "/reactswagger/static/js/main.abd0cf30.js.map",
+    "453.01fa07b5.chunk.js.map": "/reactswagger/static/js/453.01fa07b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb339ff0.css",
+    "static/js/main.abd0cf30.js"
+  ]
+}
